@@ -139,6 +139,11 @@ paginate = 10
 	name = "About"
 	url  = "about"
 	weight = 5
+	
+[[menu.main]]
+	name = "Games"
+	url  = "games"
+	weight = 6
 
 [[menu.main]]
 	name = "Blog"
