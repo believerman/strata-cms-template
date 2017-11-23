@@ -7,7 +7,7 @@ title = "games"
 
 ## Open source games hosted at Believing Space:
 
-[Space Invaders](//invaders.believing.space)
+## [Space Invaders](//invaders.believing.space)
 
 
 
