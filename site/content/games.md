@@ -1,5 +1,8 @@
 
 
-## Most people like games. Here are some open source games hosted at Believing Space:
+## Open source games hosted at Believing Space:
 
- http://invaders.believing.space
+<a href="http://invaders.believing.space">Space Invaders</a>
+
+
+
