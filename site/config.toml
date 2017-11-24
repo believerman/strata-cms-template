@@ -36,11 +36,11 @@ paginate = 10
 		flickr = ""
 		linkedin = ""
 
-		copyright = [
-			"&copy; John Doe",
-			"Design: [HTML5 UP](//html5up.net)",
-			"Demo Images: [Unsplash](//unsplash.com/)"
-		]
+	#	copyright = [
+	#		"&copy; John Doe",
+	#		"Design: [HTML5 UP](//html5up.net)",
+	#		"Demo Images: [Unsplash](//unsplash.com/)"
+	#	]
 
 
 	[params.about]
