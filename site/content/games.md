@@ -9,5 +9,7 @@ title = "games"
 
 [Space Invaders](//invaders.believing.space)
 
+[Chess](chess.believing.space) 
+
 
 
