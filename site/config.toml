@@ -36,11 +36,11 @@ paginate = 10
 		flickr = ""
 		linkedin = ""
 
-	#	copyright = [
-	#		"&copy; John Doe",
-	#		"Design: [HTML5 UP](//html5up.net)",
-	#		"Demo Images: [Unsplash](//unsplash.com/)"
-	#	]
+		copyright = [
+			"&copy; John Doe",
+			"Design: [HTML5 UP](//html5up.net)",
+			"Demo Images: [Unsplash](//unsplash.com/)"
+		]
 
 
 	[params.about]
@@ -134,11 +134,6 @@ paginate = 10
 	name = "Home"
 	url  = "/"
 	weight = 0
-
-[[menu.main]]
-	name = "About"
-	url  = "about"
-	weight = 5
 	
 [[menu.main]]
 	name = "Games"
