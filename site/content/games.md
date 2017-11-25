@@ -7,8 +7,10 @@ title = "games"
 
 ## Open source games hosted at Believing Space:
 
+[Asteroids](//asteroids.believing.space)
+[Chess](//chess.believing.space)
 [Space Invaders](//invaders.believing.space)<br>
-[Chess](//chess.believing.space) 
+ 
 
 
 
