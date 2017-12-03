@@ -69,14 +69,14 @@ paginate = 10
 		[[params.portfolio.gallery]]
 			image = "fulls/03.jpg"
 			thumb = "thumbs/03.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Everything Has Beauty."
+			description = "Image by Annie Spratt"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/04.jpg"
 			thumb = "thumbs/04.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Run After Your Dream."
+			description = "Image by Bruno Nascimento."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/05.jpg"
