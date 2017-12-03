@@ -45,8 +45,8 @@ paginate = 10
 
 	[params.about]
 		hide  = false
-		title = "I will believe what others have doubted."
-		content = "Belief will change my world. It has founded countries, discoverd continents, and put humans on the moon. Every battle is won before it is fought. And the first step is _believing_ that the battle can be won."
+		title = "Believe has the power to change the world."
+		content = "Belief has founded countries, led to the discovery of continents, and put humans on the moon. Somewhere right now, someone needs you to believe in them: you. You need to beleive in you. This is the space for believing in yourself, that your future can be better than the present, and you have the ability to make it happen."
 
 	[params.portfolio]
 		hide  = false
