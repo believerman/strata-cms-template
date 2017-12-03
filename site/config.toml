@@ -49,7 +49,7 @@ paginate = 10
 		content = "Belief has founded countries, led to the discovery of continents, and put humans on the moon. Somewhere right now, someone needs you to believe in them... you. You need to believe in you. This is the space for believing in yourself, that your future can be better than the present, and you have the ability to make it happen."
 
 	[params.portfolio]
-		hide  = false
+		hide  = true
 		title = "Recent Work"
 
 		# The images and thumbnails are stored under static/images
@@ -95,7 +95,7 @@ paginate = 10
 		title = "Recent blog posts"
 
 	[params.contact]
-		hide  = false
+		hide  = true
 		title = "Get In Touch"
 		content = "Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor."
 
