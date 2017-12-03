@@ -46,7 +46,7 @@ paginate = 10
 	[params.about]
 		hide  = false
 		title = "Believe has the power to change the world."
-		content = "Belief has founded countries, led to the discovery of continents, and put humans on the moon. Somewhere right now, someone needs you to believe in them: you. You need to beleive in you. This is the space for believing in yourself, that your future can be better than the present, and you have the ability to make it happen."
+		content = "Belief has founded countries, led to the discovery of continents, and put humans on the moon. Somewhere right now, someone needs you to believe in them... you. You need to believe in you. This is the space for believing in yourself, that your future can be better than the present, and you have the ability to make it happen."
 
 	[params.portfolio]
 		hide  = false
