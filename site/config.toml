@@ -50,15 +50,15 @@ paginate = 10
 
 	[params.portfolio]
 		hide  = false
-		title = "Recent Work"
+		title = "Recent Posts"
 
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
 			image = "fulls/01.jpg"
 			thumb = "thumbs/01.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Let It Go."
+			description = "Image by Kyle Johnson."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/02.jpg"
