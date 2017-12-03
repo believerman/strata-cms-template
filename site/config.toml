@@ -63,7 +63,7 @@ paginate = 10
 		[[params.portfolio.gallery]]
 			image = "fulls/02.jpg"
 			thumb = "thumbs/02.jpg"
-			title = "Art."
+			title = "Another Way to Scream."
 			description = "Image by Tools for Motivation."
 
 		[[params.portfolio.gallery]]
