@@ -46,7 +46,7 @@ paginate = 10
 	[params.about]
 		hide  = false
 		title = "I will believe what others have doubted."
-		content = "Belief will change my world. It has founded countries, discoverd continents, and put humans on the moon.
+		content = "Belief will change my world. It has founded countries, discoverd continents, and put humans on the moon."
 
 	[params.portfolio]
 		hide  = false
