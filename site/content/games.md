@@ -8,7 +8,6 @@ title = "games"
 ## Open source games hosted at Believing Space:
 
 [Asteroids](//asteroids.believing.space)<br>
-[Asteroids Reloaded](//xenodochial-fermat-f27459.netlify.com) Super Fun!<br>
 [Chess](//chess.believing.space)<br>
 [Connect Four](//connect4.believing.space)<br>
 [Solitaire](//solitaire.believing.space)<br>
