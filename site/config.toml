@@ -57,7 +57,7 @@ paginate = 10
 		[[params.portfolio.gallery]]
 			image = "fulls/01.jpg"
 			thumb = "thumbs/01.jpg"
-			title = "Let It Go."
+			title = "Letting Go."
 			description = "Image by Kyle Johnson."
 
 		[[params.portfolio.gallery]]
