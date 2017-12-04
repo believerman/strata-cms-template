@@ -5,6 +5,18 @@ title = "games"
 
 +++
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Minimalist AutoSize Responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1729038428243112"
+     data-ad-slot="2900819760"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</head>
+
 ## Open source games hosted at Believing Space:
 
 [Asteroids](//asteroids.believing.space)<br>
