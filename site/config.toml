@@ -81,13 +81,13 @@ paginate = 10
 		[[params.portfolio.gallery]]
 			image = "fulls/05.jpg"
 			thumb = "thumbs/05.jpg"
-			title = "Lighthouse"
+			title = "Shining Bright"
 			description = "Image from Pixabay"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/06.jpg"
 			thumb = "thumbs/06.jpg"
-			title = "A Form of Scream"
+			title = "A Form of Screaming"
 			description = "Image by Tools for Motivation"
 
 	[params.recentposts]
