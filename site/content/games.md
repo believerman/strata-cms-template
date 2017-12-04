@@ -1,10 +1,3 @@
-+++
-date = "2016-09-09T10:15:23-04:00"
-draft = false
-title = "games"
-
-+++
-
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Minimalist AutoSize Responsive -->
 <ins class="adsbygoogle"
@@ -16,6 +9,12 @@ title = "games"
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 </head>
++++
+date = "2016-09-09T10:15:23-04:00"
+draft = false
+title = "games"
+
++++
 
 ## Open source games hosted at Believing Space:
 
