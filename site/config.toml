@@ -57,38 +57,38 @@ paginate = 10
 		[[params.portfolio.gallery]]
 			image = "fulls/01.jpg"
 			thumb = "thumbs/01.jpg"
-			title = "Letting Go."
-			description = "Image by Kyle Johnson."
+			title = ""
+			description = ""
 
 		[[params.portfolio.gallery]]
 			image = "fulls/02.jpg"
 			thumb = "thumbs/02.jpg"
-			title = "Another Way to Scream."
-			description = "Image by Tools for Motivation."
+			title = ""
+			description = ""
 
 		[[params.portfolio.gallery]]
 			image = "fulls/03.jpg"
 			thumb = "thumbs/03.jpg"
-			title = "Run After Your Dream."
-			description = "Image by Bruno Nascimento"
+			title = ""
+			description = ""
 
 		[[params.portfolio.gallery]]
 			image = "fulls/04.jpg"
 			thumb = "thumbs/04.jpg"
-			title = "Everthing Has Beauty."
-			description = "Image by Annie Spratt."
+			title = ""
+			description = ""
 
 		[[params.portfolio.gallery]]
 			image = "fulls/05.jpg"
 			thumb = "thumbs/05.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = ""
+			description = ""
 
 		[[params.portfolio.gallery]]
 			image = "fulls/06.jpg"
 			thumb = "thumbs/06.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = ""
+			description = ""
 
 	[params.recentposts]
 		hide  = false
