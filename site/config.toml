@@ -57,14 +57,14 @@ paginate = 10
 		[[params.portfolio.gallery]]
 			image = "fulls/01.jpg"
 			thumb = "thumbs/01.jpg"
-			title = "Letting Go"
+			title = "Believe in Yourself"
 			description = "Image from Pixabay"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/02.jpg"
 			thumb = "thumbs/02.jpg"
-			title = "Invisible Beauty"
-			description = "Image by Annie Spratt"
+			title = "Letting Go"
+			description = "Image from Pixabay"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/03.jpg"
