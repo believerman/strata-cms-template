@@ -23,6 +23,7 @@ title = "games"
 [Asteroids](//asteroids.believing.space)<br>
 [Chess](//chess.believing.space)<br>
 [Connect Four](//connect4.believing.space)<br>
+[Scrabble](//scrabble.believing.space)<br>
 [Space Invaders](//invaders.believing.space)<br>
  
 
