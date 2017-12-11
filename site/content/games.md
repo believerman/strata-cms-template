@@ -22,7 +22,7 @@ title = "games"
 
 [2048](//2048.believing.space)<br>
 [Asteroids](//asteroids.believing.space)<br>
-[Breaklock(//breaklock.believing.space)<br>
+[Breaklock](//breaklock.believing.space)<br>
 [Chess](//chess.believing.space)<br>
 [Connect Four](//connect4.believing.space)<br>
 [Space Invaders](//invaders.believing.space)<br>
