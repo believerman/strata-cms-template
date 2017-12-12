@@ -57,8 +57,8 @@ paginate = 10
 		[[params.portfolio.gallery]]
 			image = "fulls/01.jpg"
 			thumb = "thumbs/01.jpg"
-			title = "Believe in Yourself"
-			description = "Image from Pixabay"
+			title = "Reach for the Sky"
+			description = "Image by Bobby Johnson"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/02.jpg"
