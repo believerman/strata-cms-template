@@ -58,7 +58,7 @@ paginate = 10
 			image = "fulls/01.jpg"
 			thumb = "thumbs/01.jpg"
 			title = "Reach for the Sky"
-			description = "Image by Bobby Johnson"
+			description = "Image by Samuel Zeller"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/02.jpg"
