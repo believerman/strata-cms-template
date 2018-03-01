@@ -26,6 +26,7 @@ title = "games"
 [Chess](//chess.believing.space)<br>
 [Connect Four](//connect4.believing.space)<br>
 [Space Invaders](//invaders.believing.space)<br>
+[Word Create](//wordcreate.believing.space)<br>
  
 
 
